@@ -17,7 +17,6 @@ This project aims to explore and analyze data from a fictional e-commerce compan
 - Create a summary fdataframe that reflects the totals for the top 5 clients of the following:
    * Total units purchased, total shipping price, total revenue, and total profit
     
-
 ## Summary
 
-This system calculates the interest earned on both savings and CD accounts. It considers the initial balance, annual interest rate, and the number of months and provides the interest calculations and updated balance for both accounts.
+This README provides a comprehensive overview of the e-commerce data analysis project. It guides users through the data collection and analysis, ensuring a smooth experience in exploring and analyzing the data.
